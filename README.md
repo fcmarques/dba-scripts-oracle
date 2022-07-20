@@ -1,2 +1,1 @@
-# dba-scripts-oracle
-Oracle Databse DBA Scripts Tool Box
+# Oracle Databse DBA Scripts Tool Box
